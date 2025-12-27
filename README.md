@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#### I'm a software engineer graduated from GIET, Baniatangi, Bhubaneswar.
 <!--
 **swasti-lenka/swasti-lenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
